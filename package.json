@@ -1,0 +1,12 @@
+{
+  "name": "shope-carrinho",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "shope-carrinho": "file:"
+  },
+  "scripts": {
+    "start": "node src/services/cart.js"
+  }
+}
