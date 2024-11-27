@@ -7,6 +7,6 @@
     "shope-carrinho": "file:"
   },
   "scripts": {
-    "start": "node src/services/cart.js"
+    "start": "node src/index.js"
   }
 }
